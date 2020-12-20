@@ -1,6 +1,6 @@
 
 <template>
-  <div id = "Experiences" class="container">
+  <div id = "Experience" class="container">
     <h1> Experience </h1>
     <hr class = "dark mb-5">
     <div class="mb-5">

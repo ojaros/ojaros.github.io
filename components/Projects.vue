@@ -13,19 +13,23 @@
           <p>2020</p>
           <ul>
             <li>
-              Created a model to predict the final scores of NBA games and simulate against Vegas odds.
+              Created a model to predict the final scores of NBA games and compare point difference to Vegas spread. 
+            <li>
+              I first scraped stats from every game in the past 10 years using the stats.nba.com API.
             </li>
             <li>
-              Gathered data from over 14,000 NBA games in the past 10 seasons using API endpoints supported by stats.nba.com.            </li>
-            <li>
-              Found independent variable correlations to final scores using Python packages such as pandas and matplotlib.
+              I cleaned and manipulated this data to include the four factos of effective field goal percentage, turnover percentage, rebound percentage, and free throw rate.
             </li>
             <li>
-              Used sklearn with Python to create a linear regression model that predicts final scores with a mean absolute error of 5.8 points.
+              I then found the correlations of these factors to final scores using sklearn with python to create a linear regression model that was able to predict final scores with a margin of error of 5.8 points.
             </li>
             <li>
-              Scraped current NBA schedule and team stats using Selenium allowing for input of each game into the model and output of projected final scores.
+              After creating the model I scraped the current NBA schedule as well as each team's average four factors from their past 10 games. 
             </li>
+            <li>
+              I then wrote a function to input the four factors of the teams playing in each game into the model and output the predicted final score.
+            </li>
+
           </ul>
         </div>
       </div>

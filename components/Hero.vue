@@ -6,7 +6,7 @@
         class="mb-3"
         alt="Me"
         width="300"
-        height="360"
+        height="440"
       />
       <h1 class="mb-3 text-dark">Oliver Jaros</h1>
       <a href="/OliverJarosResume.pdf" download = "" class="btn btn-lg"> Resume </a>
