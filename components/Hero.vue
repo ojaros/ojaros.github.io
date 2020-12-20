@@ -5,8 +5,8 @@
         src="~/assets/images/Jaros-7.jpg"
         class="mb-3"
         alt="Me"
-        width="200"
-        height="400"
+        width="300"
+        height="360"
       />
       <h1 class="mb-3 text-dark">Oliver Jaros</h1>
       <a href="/OliverJarosResume.pdf" download = "" class="btn btn-lg"> Resume </a>

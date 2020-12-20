@@ -13,16 +13,18 @@
           <p>2020</p>
           <ul>
             <li>
-              Created a model to predict the final score of NBA games and compare them to the vegas point spread.
+              Created a model to predict the final scores of NBA games and simulate against Vegas odds.
             </li>
             <li>
-              Used Python packages such as selenium, pandas, matplotlib, numpy, and sklearn to scrape data and store it efficiently.
+              Gathered data from over 14,000 NBA games in the past 10 seasons using API endpoints supported by stats.nba.com.            </li>
+            <li>
+              Found independent variable correlations to final scores using Python packages such as pandas and matplotlib.
             </li>
             <li>
-              Based linear regression model off of data from every game in the past 10 years.
+              Used sklearn with Python to create a linear regression model that predicts final scores with a mean absolute error of 5.8 points.
             </li>
             <li>
-              Predict the final score of a given NBA game based on their current form by inputting average four factors of each teams last 10 games
+              Scraped current NBA schedule and team stats using Selenium allowing for input of each game into the model and output of projected final scores.
             </li>
           </ul>
         </div>
@@ -36,22 +38,16 @@
           <p>2018</p>
           <ul>
             <li>
-              Recognized an existing problem of long lines at my high school’s
-              snack bar, not allowing time for students to get snacks in between
-              class.
+              Recognized the problem of long lines at my high school snack bar causing students to be late to class.
             </li>
             <li>
-              Developed an application using Xcode to allow students to
-              pre-order snacks from anywhere on campus, paying with their
-              student ID number.
+              Developed iOS application using Xcode allowing students to order snacks from anywhere on campus by paying with their student ID number.
             </li>
             <li>
-              Reduced lines as orders were automated, allowed students to avoid
-              lines and pick up items between classes.
+              Automated and enabled pre-orders to reduce wait time by 70%.
             </li>
             <li>
-              Received over 200 downloads on the iOS App Store within the first
-              week.
+              Received over 200 downloads on the iOS App Store within a week of launch.
             </li>
           </ul>
         </div>

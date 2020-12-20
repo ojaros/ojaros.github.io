@@ -11,10 +11,10 @@
           <div class="card"><h4> <strong>Santa Clara University</strong> </h4>
             <p>Expected Graduation: 2022</p>
             <p>
-              <strong>B.S. in Computer Science & Mathematics </strong>
               <ul>
+                <li>B.S. in Computer Science & Mathematics </li>
                 <li>Minor in Desing Thinking and Entrepreneurship</li>
-                <li>Related Coursework: Object Oriented Programming (C++), Data Structures, Algorithms, Discrete Mathematics, Logic Design, Linear Algebra</li>
+                <li>Relevant Coursework: Calculus 1-4, Discrete Mathematics, Linear Algebra, Probability and Statistics, Object Oriented Programming (C++), Data Structures, Theory of Algorithms, Embedded Systems, Logic Design, Operating Systems, Applied Entrepreneurship.</li>
               </ul>
             </p>
           </div>
@@ -36,9 +36,10 @@
           <h4>Software Engineering Intern</h4>
           <p>Big Blue Swim School <br>Summer 2020</p>
           <ul>
-            <li>Worked on both front end and back end of website using frameworks such as Vue and Tailwind</li>
-            <li>Participated in daily meetings sharing progress reports with Agile team</li>
-            <li>Assisted in the development of mobile application coding in Flutter</li>
+            <li>Rewrote several components to support migration of the company website from Angular to Vue.</li>
+            <li>Improved on styling and UI of website using Tailwind CSS.</li>
+            <li>Participated in daily progress report meetings with Scrum team and sprint planning meetings every 2 weeks.</li>
+            <li>Fixed bugs on login and payment pages of mobile application coding in Dart with Flutter.</li>
           </ul>
         </div>
       </div>

@@ -1,3 +1,6 @@
+<!-- To update code, commit and push changes on master then run 
+yarn generate yarn deploy on master --> 
+
 <template>
   <main class="main">
     <section class="section parallax bg-hero">
