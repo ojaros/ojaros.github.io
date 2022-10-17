@@ -3,7 +3,7 @@ yarn generate yarn deploy on master -->
 
 <template>
   <main class="main">
-    <section class="section parallax bg-hero">
+    <section class="section bg-hero">
       <Hero />
     </section>
 
@@ -69,8 +69,10 @@ export default {}
   z-index: -1;
 }
 
-.bg-hero::after {
+.bg-hero {
   background-image: url('../assets/images/lib.jpg');
+  background-attachment: fixed;
+  background-size: cover;
 }
 .bg-about {
   background: #f0f2f2;

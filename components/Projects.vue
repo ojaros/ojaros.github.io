@@ -5,6 +5,39 @@
 
     <div class="row">
       <div class="col-12 col-sm-6 my-auto">
+        <div class="card">
+          <h4>Spherical Garden Construction</h4>
+          <p>2021</p>
+          <ul>
+            <li>
+              Constructed 8'x8' spherical garden to provide the African American Community Service Agency in San Jose a healthy and sustainable food source . 
+            <li>
+              Used CNC milling machine to cut 15 4'x'8' sheets of plywood into 78 pieces over 22 hours.
+            </li>
+            <li>
+              Removed existing garden bed and leveled soil to prep build site
+            </li>
+            <li>
+              Assembled and primed structure over the course of two full days
+            </li>
+            <!-- Figure out file download error -->
+            <!-- <li class="my-2">
+              <a href="~/static/Report.pdf" download="~/static/Report.pdf" class="btn btn-sm"> Report </a>
+              <a href="/Presentation.pdf" download="" class="btn btn-sm"> Presentation </a>
+            </li> -->
+            <li>
+              <a href="https://ojaros2.wixsite.com/engr110/blog" download ="" class="btn btn-sm"> Portfolio Site </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 my-auto h-12">
+        <img src="~/assets/images/Growroom.jpg" alt="grow" class="center h-12" />
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12 col-sm-6 my-auto">
         <img src="~/assets/images/nba.jpg" alt="nba" class="center rounded" />
       </div>
       <div class="col-12 col-sm-6 my-auto">
@@ -56,7 +89,7 @@
           </ul>
         </div>
       </div>
-      <div class="col-12 col-sm-6">
+      <div class="col-12 col-sm-6 my-auto">
         <img src="~/assets/images/lfa.png" alt="lfa" class="center" />
       </div>
     </div>
@@ -68,6 +101,10 @@ export default {}
 </script>
 
 <style lang="scss" scoped>
+.btn {
+  background-color: #97afa3;
+  color: #fff;
+}
 .card {
   border: none;
   padding: 1.25rem;
