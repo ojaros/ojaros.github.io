@@ -23,8 +23,8 @@
 
       <div class="col-4">
         <a
-          href="https://www.linkedin.com/in/oliver-jaros-256382156/"
-          title="linkedin.com/in/oliver-jaros-256382156/"
+          href="https://www.linkedin.com/in/oliverjaros/"
+          title="linkedin.com/in/oliverjaros/"
         >
           <img class="contactIcons" src="/images/linkedin1.png" />
           <div class="contactTxt">Linkedin</div>

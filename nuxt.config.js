@@ -28,7 +28,7 @@ export default {
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'oj.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/oj.ico' },
       {
         rel: 'stylesheet',
         href:

@@ -21,11 +21,10 @@
             <li>
               Assembled and primed structure over the course of two full days
             </li>
-            <!-- Figure out file download error -->
-            <!-- <li class="my-2">
-              <a href="~/static/Report.pdf" download="~/static/Report.pdf" class="btn btn-sm"> Report </a>
+            <li class="my-2">
+              <a href="/Report.pdf" download="" class="btn btn-sm"> Report </a>
               <a href="/Presentation.pdf" download="" class="btn btn-sm"> Presentation </a>
-            </li> -->
+            </li>
             <li>
               <a href="https://ojaros2.wixsite.com/engr110/blog" download ="" class="btn btn-sm"> Portfolio Site </a>
             </li>
@@ -33,7 +32,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto h-12">
-        <img src="Growroom.jpg" alt="grow" class="center h-12" />
+        <img src="/images/Growroom.jpg" alt="grow" class="center h-12" />
       </div>
     </div>
 
@@ -92,7 +91,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto">
-        <img src="/lfa.png" alt="lfa" class="center" />
+        <img src="/images/lfa.png" alt="lfa" class="center" />
       </div>
     </div>
   </div>
