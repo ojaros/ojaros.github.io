@@ -8,7 +8,7 @@
 
       <div class="row">
         <div class="col-12 col-sm-6 my-auto">
-          <img src="~/assets/images/VerticalstackedRed.png" alt="scu" class="center">
+          <img src="/images/VerticalstackedRed.png" alt="scu" class="center">
         </div>
         <div class="col-12 col-sm-6">
           <div class="card"><h4> <strong>Santa Clara University</strong> </h4>
@@ -41,13 +41,13 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto">
-        <img src="~/assets/images/CMT.jpg" alt="CMT" class="center">
+        <img src="/images/CMT.jpg" alt="CMT" class="center">
       </div>
     </div>
 
     <div class="row">
       <div class="col-12 col-sm-6 my-auto">
-        <img src="~/assets/images/bigblue.jpg" alt="bigblue" class="center">
+        <img src="/images/bigblue.jpg" alt="bigblue" class="center">
       </div>
       <div class="col-12 col-sm-6">
         <div class="card">
@@ -74,7 +74,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto">
-        <img src="~/assets/images/sportshall.png" alt="sportshall" class="center">
+        <img src="/images/sportshall.png" alt="sportshall" class="center">
       </div>
     </div>
   </div>

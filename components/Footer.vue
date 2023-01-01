@@ -9,14 +9,14 @@
           href="mailto:oliverjaros214@gmail.com"
           title="oliverjaros214@gmail.com"
         >
-          <img class="contactIcons" src="~/assets/images/gmail.png" />
+          <img class="contactIcons" src="/images/gmail.png" />
           <div class="contactTxt">Email</div>
         </a>
       </div>
 
       <div class="col-4">
         <a href="https://github.com/ojaros" title="github.com/ojaros">
-          <img class="contactIcons" src="~/assets/images/git1.png" />
+          <img class="contactIcons" src="/images/git1.png" />
           <div class="contactTxt">Github</div>
         </a>
       </div>
@@ -26,7 +26,7 @@
           href="https://www.linkedin.com/in/oliver-jaros-256382156/"
           title="linkedin.com/in/oliver-jaros-256382156/"
         >
-          <img class="contactIcons" src="~/assets/images/linkedin1.png" />
+          <img class="contactIcons" src="/images/linkedin1.png" />
           <div class="contactTxt">Linkedin</div>
         </a>
       </div>

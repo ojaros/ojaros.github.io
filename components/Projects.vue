@@ -11,6 +11,7 @@
           <ul>
             <li>
               Constructed 8'x8' spherical garden to provide the African American Community Service Agency in San Jose a healthy and sustainable food source . 
+            </li>
             <li>
               Used CNC milling machine to cut 15 4'x'8' sheets of plywood into 78 pieces over 22 hours.
             </li>
@@ -32,13 +33,13 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto h-12">
-        <img src="~/assets/images/Growroom.jpg" alt="grow" class="center h-12" />
+        <img src="/images/Growroom.jpg" alt="grow" class="center h-12" />
       </div>
     </div>
 
     <div class="row">
       <div class="col-12 col-sm-6 my-auto">
-        <img src="~/assets/images/nba.jpg" alt="nba" class="center rounded" />
+        <img src="/images/nba.jpg" alt="nba" class="center rounded" />
       </div>
       <div class="col-12 col-sm-6 my-auto">
         <div class="card">
@@ -47,6 +48,7 @@
           <ul>
             <li>
               Created a model to predict the final scores of NBA games and compare point difference to Vegas spread. 
+            </li>
             <li>
               I first scraped stats from every game in the past 10 years using the stats.nba.com API.
             </li>
@@ -90,7 +92,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto">
-        <img src="~/assets/images/lfa.png" alt="lfa" class="center" />
+        <img src="/images/lfa.png" alt="lfa" class="center" />
       </div>
     </div>
   </div>
