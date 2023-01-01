@@ -39,7 +39,7 @@
 
     <div class="row">
       <div class="col-12 col-sm-6 my-auto">
-        <img src="images/nba.jpg" alt="nba" class="center rounded" />
+        <img src="/images/nba.jpg" alt="nba" class="center rounded" />
       </div>
       <div class="col-12 col-sm-6 my-auto">
         <div class="card">
@@ -92,7 +92,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 my-auto">
-        <img src="images/lfa.png" alt="lfa" class="center" />
+        <img src="/lfa.png" alt="lfa" class="center" />
       </div>
     </div>
   </div>
