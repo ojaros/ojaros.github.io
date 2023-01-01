@@ -70,7 +70,7 @@ export default {}
 }
 
 .bg-hero {
-  background-image: url('images/lib.jpg');
+  background-image: url('/images/lib.jpg');
   background-attachment: fixed;
   background-size: cover;
 }
