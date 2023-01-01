@@ -2,7 +2,7 @@
   <div class="card text-center mt-5">
     <div class="card-body">
       <img
-        src="/images/headshot.jpg"
+        src="images/headshot.jpg"
         class="mb-3"
         alt="Me"
         width="300"
